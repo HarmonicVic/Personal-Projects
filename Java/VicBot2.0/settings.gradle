@@ -1,0 +1,3 @@
+rootProject.name = 'VicBot2.0'
+include 'src'
+
