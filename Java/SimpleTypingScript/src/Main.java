@@ -27,12 +27,6 @@ public class Main {
             }
             i++;
         }
-        /*
-            rpg refine armor
-            rpg refine armor
-            rpg refine armor
-
-        */
     }
 }
 
